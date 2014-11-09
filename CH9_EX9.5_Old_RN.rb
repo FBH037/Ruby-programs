@@ -34,7 +34,7 @@ while (number/1) >= 1
 	end
 
 end
-puts rn.join ('')
+puts rn.join
 end
 
 Roman_Numeral 4789
